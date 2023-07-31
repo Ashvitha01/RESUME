@@ -1,0 +1,25 @@
+h1{
+    font: bolder;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+h2{
+    font-size: 25px;
+    margin-left: 200px;
+}
+div{
+    margin-left: 1105px;
+}
+p{
+    margin-left: 200px;
+}
+table{
+    margin-left: 200px;
+}
+ul{
+    margin-left: 200px;
+}
+ol{
+    margin-left: 200px;
+}
